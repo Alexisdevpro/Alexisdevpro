@@ -1,9 +1,9 @@
  👋 Hi, I’m @Alexisdevpro
-I am very interested in cybersecurity.
+I 'm student of cybersecurity.
 I have a lot of knowledge from CTF and pentesting.
-I share a lot of useful commands and some rootkits and RATs (Nanocore Settings, NjRat, Meterpreter,...)
+I share a lot of useful commands and some rootkits, I share the most interesting and useful ones !
 
-My own rootkits are in private, come dm if you want. Here I share the most interesting and useful ones !
+OSINT is one of my passion in which i have a lot of skills
 
 I do it all legally 😉 an educational purpose !
 
