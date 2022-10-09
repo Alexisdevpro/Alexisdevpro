@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexis-mellier-2625401b1/) 
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexis-mellier-2625401b1/)
+  <!-- -->
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=7b68c8d3da34&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 # 💻 Tech Stack:
