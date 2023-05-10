@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Alexisdevpro I 'm student of cybersecurity. I have a lot of knowledge from CTF and pentesting. I share a lot of useful commands and some rootkits, I share the most interesting and useful ones !<br><br>OSINT is one of my passion in which i have a lot of skills<br><br>I do it all legally 😉 an educational purpose !
+👋 Hi, I’m @Alexisdevpro I 'm student of cybersecurity. I have a lot of knowledge from CTF and pentesting. I share a lot of useful commands and some rootkits, I share the most interesting and useful ones !<br><br>OSINT is one of my passion in which i have a lot of skills<br>I'm skilled in Forensics and Reversing, with a passion for unraveling digital mysteries.<br><br>I do it all legally 😉 an educational purpose !
 
 
 ## 🌐 Socials:
