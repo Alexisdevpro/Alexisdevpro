@@ -1,6 +1,9 @@
-# 💫 About Me:
-👋 Hi, I’m @Alexisdevpro I 'm student of cybersecurity. I have a lot of knowledge from CTF and pentesting. I share a lot of useful commands and some rootkits, I share the most interesting and useful ones !<br><br>OSINT is one of my passion in which i have a lot of skills<br>I'm skilled in Forensics and Reversing, with a passion for unraveling digital mysteries.<br><br>I do it all legally 😉 an educational purpose !
+# 👋 Hi, I'm @Alexisdevpro I'm a student engineer in cybersecurity at Telecom Paris. I have a lot of knowledge thanks to CTF and pentesting. I share a lot of useful commands and some rootkits, I share the most interesting and useful ones!
 
+OSINT is one of my passions in which I have a lot of skills.
+I have skills in Forensics and Reversing, with a passion for solving digital mysteries.
+
+I do it legally 😉 for educational purposes!
 
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexis-mellier-2625401b1/)
