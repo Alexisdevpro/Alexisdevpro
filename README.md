@@ -1,6 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=1000&color=44E0E4&background=FFEED500&center=true&width=1000&height=100&lines=Hi,+I'm+@Alexis) 
 
+<img height="250px" src="https://github.com/Alexisdevpro/Alexisdevpro/blob/main/moii.png" align="right" />
 
 I'm a student engineer in **telecommunications** at Telecom Paris, with a deep passion for **cybersecurity** and **quantum physics**. I have gained extensive knowledge through **CTF** (Capture the Flag) challenges and **pentesting**. I enjoy sharing useful commands, interesting rootkits, and educational content related to cybersecurity.
 
@@ -69,26 +70,32 @@ One of my key interests is **OSINT** (Open Source Intelligence), where I excel i
 </div>
 
 
-
-
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexisdevpro&theme=radical&hide_border=false)<br/>
+## 📊 GitHub Stats
 
-
-
-### ✍️ Random Dev Quote:
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+    <table>
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisdevpro&theme=radical&hide_border=false" alt="GitHub Stats">
+    </td>
+    <td align="center" style="padding-left: 20px;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&hide_border=false" alt="Random Quote">
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=alexisdevpro&icon=1&color=11)](https://visitcount.itsvg.in)
 
 ## 🌟 Other Projects:
 Check out some of my other interesting projects and repositories on my GitHub profile!
 
----
 
-### 📝 Disclaimer:
+
+## 📝 Disclaimer:
 All scripts, techniques, and tools shared are for **educational purposes only**. Please use responsibly and legally.
+
+[![](https://visitcount.itsvg.in/api?id=alexisdevpro&icon=1&color=11)](https://visitcount.itsvg.in)
+
