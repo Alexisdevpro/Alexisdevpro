@@ -1,0 +1,37 @@
+name: Metrics
+on:
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  # Schedule updates (each hour)
+  schedule:
+    - cron: "30 * * * 1"
+  workflow_call:
+    secrets:
+      METRICS_TOKEN:
+        required: true
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+jobs:
+  github-metrics:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v2
+          
+      - name: :date: Isometric commit calendar - Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: commit
+          delay: 120
+          user: apullenb
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+        
