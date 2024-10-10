@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
           
-      - name: :date: Isometric commit calendar - Full-year calendar
+      - name: Isometric commit calendar - Full-year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
