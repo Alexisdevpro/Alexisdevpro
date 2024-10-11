@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=1000&color=44E0E4&background=FFEED500&center=true&width=1000&height=100&lines=Hi,+I'm+@Alexis) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=1000&color=44E0E4&background=FFEED500&center=true&width=1000&height=100&lines=Hello,+I'm+Alexis) 
 
 <img height="250px" src="https://github.com/Alexisdevpro/Alexisdevpro/blob/main/moii.png" align="right" />
 
