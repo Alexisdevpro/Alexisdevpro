@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=1000&color=44E0E4&background=FFEED500&center=true&width=1000&height=100&lines=Hello,+I'm+Alexis) 
 
-<img height="250px" src="https://github.com/Alexisdevpro/Alexisdevpro/blob/main/moii.png" align="right" />
+<img height="250px" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" align="right" />
 
 I'm a student engineer in **telecommunications** at Telecom Paris, with a deep passion for **cybersecurity** and **quantum physics**. I have gained extensive knowledge through **CTF** (Capture the Flag) challenges and **pentesting**. I enjoy sharing useful commands, interesting rootkits, and educational content related to cybersecurity.
 
